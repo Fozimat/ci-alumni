@@ -11,3 +11,6 @@
 
 ### Demo
 [Klik disini](http://alumni10.epizy.com/)
+
+### Screenshot
+![GitHub Logo](https://i.postimg.cc/fRxJxJV5/admin.png)
