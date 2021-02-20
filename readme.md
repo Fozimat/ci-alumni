@@ -1,7 +1,7 @@
 # Aplikasi e-aLumni
 
 ### Tutorial Instalasi
-1. Clone / download file, lalu pastikan folder berapa pada di dalam **htdocs** 
+1. Clone / download file, lalu pastikan folder berada di dalam **htdocs** 
 2. Buat dabase baru dengan nama **alumni10** lalu import database **alumni10.sql**
 3. Sesuaikan konfigurasi pada file **application/config/database.php**
 
